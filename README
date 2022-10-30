@@ -1,0 +1,14 @@
+This is Blog created by Hugo
+
+## how to write blog
+
+```
+$ hugo new posts/xxx/xxx/xxx.md
+$ vim content/posts/xxx/xxx/xxx.md
+$ hugo server -D
+$ vim content/posts/xxx/xxx/xxx.md
+  draft: false
+$ git add .
+$ git comit
+$ git push
+```
