@@ -1,4 +1,7 @@
+title = "This is a m em o"
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ja-jp'
 theme = 'ananke'
+
+[params]
+        body_classes = "bg-near-white"

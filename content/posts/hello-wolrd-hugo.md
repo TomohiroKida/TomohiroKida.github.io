@@ -2,6 +2,7 @@
 title: "Hello Wolrd Hugo"
 date: 2022-10-29T21:31:27+09:00
 draft: false
+featured_image: "images/ton_katsu.JPG"
 ---
 
 # Hugoでgithubioを作ってみた
