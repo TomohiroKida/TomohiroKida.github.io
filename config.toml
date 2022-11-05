@@ -1,7 +1,28 @@
+baseURL = ""
+languageCode = "ja-jp"
+theme = "ananke"
 title = "This is a m em o"
-baseURL = 'http://example.org/'
-languageCode = 'ja-jp'
-theme = 'ananke'
 
-[params]
-        body_classes = "bg-near-white"
+copyright = "Copyright TomohiroKida 2022"
+
+# Initial site menu, you can extend menu with content.
+#[[menu.main]]
+#  name = "Home"
+#  weight = 10
+#  identifier = "home"
+#  url = "/"
+#
+#[[menu.main]]
+#  name = "Works"
+#  weight = 20
+#  identifier = "works"
+#  url = "https://github.com/laozhu"
+#
+#[[menu.main]]
+#  name = "Tags"
+#  weight = 30
+#  identifier = "tags"
+#  url = "/tags/"
+#
+#[params]
+##  body_classes = "bg-near-white"
