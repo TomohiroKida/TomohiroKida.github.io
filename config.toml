@@ -1,4 +1,4 @@
-baseURL = "https://tomohirokida.github.io/images/"
+baseURL = "https://tomohirokida.github.io"
 languageCode = "ja-jp"
 theme = "ananke"
 title = "This is a m em o"
